@@ -1,0 +1,14 @@
+Marilia Ribeiro da Silva <marilia.ifc@gmail.com>
+
+<-- Endereçamento IP/ Máscaras -->
+Esse programa foi desenvolvido em python3 e contém as seguintes funcionalidades:
+   i) converte um IP em binário
+   ii) verifica a classe do IP
+   iii) verificar e comparar a rede e host entre dois IPs
+   iv) validar a máscara
+   v) informar o IP da rede e o IP de broadcast
+   vi) informar a quantidade de IPs válidos, hosts e subredes
+
+
+Para iniciar o programa você deverá executar o arquivo main.py
+Obs: O valor da máscara quando não informada, recebe 8(oito) como valor default.
